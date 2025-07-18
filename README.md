@@ -9,9 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://utsavkumarjha.netlify.app/](https://utsavkumarjha.netlify.app/)
 
 - 📫 How to reach me **utsavjha93030@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hBQUktkRBz3SMxdgAsjT23iTC4zuHpdd/view](https://drive.google.com/file/d/1hBQUktkRBz3SMxdgAsjT23iTC4zuHpdd/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utsav jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utsav jha" height="30" width="40" /></a>
